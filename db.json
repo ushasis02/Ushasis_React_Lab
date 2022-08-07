@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "items": [
+    {
+      "payeeName": "Rahul",
+      "product": "Bike Repair",
+      "price": 1000,
+      "setDate": "2022-04-07",
+      "id": 1
+    },
+    {
+      "payeeName": "Rahul",
+      "product": "Car Repair",
+      "price": 2000,
+      "setDate": "2022-04-08",
+      "id": 2
+    },
+    {
+      "payeeName": "Ramesh",
+      "product": "groceries",
+      "price": 4000,
+      "setDate": "2022-08-03",
+      "id": 3
+    },
+    {
+      "payeeName": "Rahul",
+      "product": "electricity bill",
+      "price": 2000,
+      "setDate": "2022-08-04",
+      "id": 4
+    }
+  ]
+}
