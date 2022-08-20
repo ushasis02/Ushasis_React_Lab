@@ -21,14 +21,14 @@
       "payeeName": "Rahul",
       "product": "Bike Repair",
       "price": 1000,
-      "setDate": "2022-04-07",
+      "setDate": "2022-08-07",
       "id": 1
     },
     {
       "payeeName": "Rahul",
       "product": "Car Repair",
       "price": 2000,
-      "setDate": "2022-04-08",
+      "setDate": "2022-08-08",
       "id": 2
     },
     {
@@ -44,6 +44,20 @@
       "price": 2000,
       "setDate": "2022-08-04",
       "id": 4
+    },
+    {
+      "payeeName": "Rahul",
+      "product": "tv",
+      "price": 10000,
+      "setDate": "2022-08-18",
+      "id": 5
+    },
+    {
+      "payeeName": "Ramesh",
+      "product": "Motor Cycle",
+      "price": 20000,
+      "setDate": "2022-08-19",
+      "id": 6
     }
   ]
 }
